@@ -52,7 +52,7 @@ The project was built to cut down on interruptions during online classes, studyi
 project/
 ├── src/
 │   └── gatekeeper_esp32.ino    # ESP32 firmware — PIR sensing, LCD display
-│   ├── gatekeeper_agent.py         # Python agent — Flask server + LLM tool-calling + Telegram connection
+│   ├── gatekeeper_agent.py     # Python agent — Flask server + LLM tool-calling + Telegram connection
 ├── schedule.json               # Auto-generated weekly schedule (created on first save)
 └── README.md
 ```
